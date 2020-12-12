@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1005486604479",
+    "firebase_url": "https://novaposhtaapp-d646c.firebaseio.com",
+    "project_id": "novaposhtaapp-d646c",
+    "storage_bucket": "novaposhtaapp-d646c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005486604479:android:3a12611608e43c5368060a",
+        "android_client_info": {
+          "package_name": "com.example.novaposhtaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005486604479-8n00fkeqjdgvehg7ugotqi6f4haolvin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novaposhtaapplication",
+            "certificate_hash": "d76d1652ac1d9541f91b37558caf298f17c6effc"
+          }
+        },
+        {
+          "client_id": "1005486604479-b4dfs4kab3i57h5742l70h6r911403gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzD5g_1jwz2rXVi5DOKl0k6CuzUvrQO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005486604479-b4dfs4kab3i57h5742l70h6r911403gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
